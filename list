@@ -93,6 +93,7 @@
 /include/config.php.save
 /include/wp-config.txt
 /index.php?com=admin
+/index.php?option=com_fabrik&c=import&view=import&fietype=csv&tableid=0&Itemid=0
 /index.php?option=com_user&task=register
 /localhost.sql
 /localhost.sql.bz2
@@ -122,6 +123,7 @@
 /public.tar
 /public.tar.gz
 /public.zip
+/register.php
 /root.rar
 /root.tar
 /root.tar.gz
