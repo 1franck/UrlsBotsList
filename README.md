@@ -1,6 +1,6 @@
 # URLs Bots List
 
-This repostery contains an exhaustive list of URLs scanned by various/suspicious/malicious bots.
+This repository contains an exhaustive list of URLs scanned by various/suspicious/malicious bots.
 
 URLs have been gathered from many website logs over time.
 
