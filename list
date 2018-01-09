@@ -1,0 +1,13 @@
+/.well-known/security.txt
+/.well-known/security.txt.sig
+/admin
+/ads.txt
+/browserconfig.xml
+/index.php?option=com_user&task=register
+/security.txt
+/security.txt.sig
+/sftp-config.json
+/submit
+/user/register
+/wp-login.php
+/wp-login.php?action=register
