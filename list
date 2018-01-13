@@ -59,6 +59,7 @@
 /database.sql
 /database.sql.bz2
 /database/sql.php
+/db
 /db_backup.sql
 /db_backup.sql.bz2
 /db_backup.sql.gz
@@ -68,6 +69,7 @@
 /db.sql.bz2
 /db.sql.xz
 /db.zip
+/dbadmin
 /dbdump.sql
 /dbdump.sql.bz2
 /deployment-config.json
@@ -112,6 +114,8 @@
 /mysqldump.sql.gz
 /mysqldumper/sql.php
 /netcat
+/phpmyadmin
+/pma
 /public_html.rar
 /public_html.tar
 /public_html.tar.gz
@@ -147,6 +151,7 @@
 /test/php/test.html
 /translate.sql
 /translate.sql.bz2
+/typo3
 /user/register
 /users.sql
 /users.sql.bz2
