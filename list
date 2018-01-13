@@ -1,5 +1,5 @@
-/.ftpconfig
 /?author=1
+/.ftpconfig
 /.env
 /.git/config
 /.vscode/ftp-sync.json
@@ -70,6 +70,7 @@
 /db.zip
 /dbdump.sql
 /dbdump.sql.bz2
+/deployment-config.json
 /downloader
 /dump.sql
 /dump.sql.bz2
