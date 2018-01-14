@@ -2,6 +2,7 @@
 /.ftpconfig
 /.env
 /.git/config
+/.git/index
 /.vscode/ftp-sync.json
 /.well-known/apple-app-site-association
 /.well-known/assetlinks.json
