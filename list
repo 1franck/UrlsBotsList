@@ -3,6 +3,7 @@
 /.env
 /.git/config
 /.git/index
+/.remote-sync.json
 /.vscode/ftp-sync.json
 /.well-known/apple-app-site-association
 /.well-known/assetlinks.json
@@ -99,6 +100,7 @@
 /index.php?com=admin
 /index.php?option=com_fabrik&c=import&view=import&fietype=csv&tableid=0&Itemid=0
 /index.php?option=com_user&task=register
+/license.txt
 /localhost.sql
 /localhost.sql.bz2
 /manager
@@ -130,6 +132,8 @@
 /public.tar.gz
 /public.zip
 /register.php
+/rep.php
+/replace.php
 /root.rar
 /root.tar
 /root.tar.gz
