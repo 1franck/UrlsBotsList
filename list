@@ -2,6 +2,7 @@
 /.ftpconfig
 /.env
 /.git/config
+/.git/HEAD
 /.git/index
 /.remote-sync.json
 /.vscode/ftp-sync.json
@@ -117,6 +118,7 @@
 /mysqldump.sql.gz
 /mysqldumper/sql.php
 /netcat
+/phpinfo.php
 /phpmyadmin
 /pma
 /public_html.rar
