@@ -1,6 +1,6 @@
 /?author=1
-/.ftpconfig
 /.env
+/.ftpconfig
 /.git/config
 /.git/HEAD
 /.git/index
@@ -42,6 +42,7 @@
 /blog.tar
 /blog.tar.gz
 /blog.zip
+/blog/wp-admin
 /blog/wp-includes/wlwmanifest.xml
 /browserconfig.xml
 /cms
@@ -118,6 +119,7 @@
 /mysqldump.sql.gz
 /mysqldumper/sql.php
 /netcat
+/old/wp-admin
 /phpinfo.php
 /phpmyadmin
 /pma
@@ -156,6 +158,7 @@
 /temp.sql.bz2
 /temp.sql.xz
 /test/php/test.html
+/test/wp-admin
 /translate.sql
 /translate.sql.bz2
 /typo3
@@ -168,6 +171,7 @@
 /web.tar
 /web.tar.gz
 /web.zip
+/wordpress/wp-admin
 /wordpress/wp-includes/wlwmanifest.xml
 /wp-admin
 /wp-config.bak
@@ -180,6 +184,7 @@
 /wp-json/wp/v2/users
 /wp-login.php
 /wp-login.php?action=register
+/wp/wp-admin
 /wp/wp-includes/wlwmanifest.xml
 /www.rar
 /www.tar
