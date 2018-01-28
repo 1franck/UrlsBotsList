@@ -24,6 +24,8 @@
 /admin.tar.gz
 /admin.zip
 /admin/auth/login
+/admin/fckeditor/editor/filemanager/connectors/php/connector.php?Command=GetFoldersAndFiles&Type=File&CurrentFolder=
+/admin/fckeditor/editor/filemanager/browser/default/connectors/php/connector.php?Command=GetFoldersAndFiles&Type=File&CurrentFolder=
 /admin/login.php
 /adminer.php
 /administrator
@@ -80,6 +82,9 @@
 /downloader
 /dump.sql
 /dump.sql.bz2
+/fck/editor/filemanager/connectors/php/connector.php?Command=GetFoldersAndFiles&Type=File&CurrentFolder=
+/fckeditor/editor/filemanager/browser/default/connectors/php/connector.php?Command=GetFoldersAndFiles&Type=File&CurrentFolder=
+/fckeditor/editor/filemanager/connectors/php/connector.php?Command=GetFoldersAndFiles&Type=File&CurrentFolder=
 /home.rar
 /home.tar
 /home.tar.gz
