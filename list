@@ -44,6 +44,7 @@
 /blog.tar
 /blog.tar.gz
 /blog.zip
+/blog/.git/config
 /blog/wp-admin
 /blog/wp-includes/wlwmanifest.xml
 /browserconfig.xml
