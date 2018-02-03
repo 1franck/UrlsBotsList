@@ -168,6 +168,7 @@ test/wp-admin
 translate.sql
 translate.sql.bz2
 typo3
+upload
 user/register
 users.sql
 users.sql.bz2
