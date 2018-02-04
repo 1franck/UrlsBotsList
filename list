@@ -27,6 +27,8 @@ admin/auth/login
 admin/fckeditor/editor/filemanager/browser/default/connectors/php/connector.php?Command=GetFoldersAndFiles&Type=File&CurrentFolder=
 admin/fckeditor/editor/filemanager/connectors/php/connector.php?Command=GetFoldersAndFiles&Type=File&CurrentFolder=
 admin/login.php
+admin/sql.php
+admin/sql/sql.php
 adminer.php
 administrator
 administrator.php
@@ -40,6 +42,8 @@ backup.sql.bz2
 backup.tar
 backup.tar.gz
 backup.zip
+backup/sql.php
+backups/sql.php
 blog.rar
 blog.tar
 blog.tar.gz
@@ -69,6 +73,7 @@ data.zip
 database.sql
 database.sql.bz2
 database/sql.php
+datenbank/sql.php
 db
 db_backup.sql
 db_backup.sql.bz2
@@ -85,6 +90,8 @@ dbdump.sql.bz2
 deployment-config.json
 downloader
 dump.sql
+dump/sql.php
+dumper/sql.php
 dump.sql.bz2
 fck/editor/filemanager/connectors/php/connector.php?Command=GetFoldersAndFiles&Type=File&CurrentFolder=
 fckeditor/editor/filemanager/browser/default/connectors/php/connector.php?Command=GetFoldersAndFiles&Type=File&CurrentFolder=
