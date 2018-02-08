@@ -201,6 +201,7 @@ wp-config.php.bak
 wp-config.php.old
 wp-config.php.save
 wp-config.txt
+wp-content/plugins/flickr-rss/readme.txt
 wp-includes/wlwmanifest.xml
 wp-json/wp/v2/users
 wp-login.php
