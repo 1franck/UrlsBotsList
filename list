@@ -90,9 +90,9 @@ dbdump.sql.bz2
 deployment-config.json
 downloader
 dump.sql
+dump.sql.bz2
 dump/sql.php
 dumper/sql.php
-dump.sql.bz2
 fck/editor/filemanager/connectors/php/connector.php?Command=GetFoldersAndFiles&Type=File&CurrentFolder=
 fckeditor/editor/filemanager/browser/default/connectors/php/connector.php?Command=GetFoldersAndFiles&Type=File&CurrentFolder=
 fckeditor/editor/filemanager/connectors/php/connector.php?Command=GetFoldersAndFiles&Type=File&CurrentFolder=
@@ -118,6 +118,9 @@ include/config.php.save
 include/wp-config.txt
 index.php?com=admin
 index.php?option=com_fabrik&c=import&view=import&fietype=csv&tableid=0&Itemid=0
+index.php?option=com_fabrik&c=import&view=import&filetype=csv&table=1
+index.php?option=com_fabrik&format=raw&task=plugin.pluginAjax&plugin=fileupload&method=ajax_upload
+index.php?option=com_jimtawl&view=upload&task=upload&pop=true&tmpl=component
 index.php?option=com_user&task=register
 latin
 license.txt
@@ -177,6 +180,7 @@ temp.sql
 temp.sql.bz2
 temp.sql.xz
 test/php/test.html
+test/ssi/test.html
 test/wp-admin
 translate.sql
 translate.sql.bz2
@@ -202,6 +206,8 @@ wp-config.php.old
 wp-config.php.save
 wp-config.txt
 wp-content/plugins/flickr-rss/readme.txt
+wp-content/plugins/viral-optins/api/uploader
+wp-content/plugins/wp-checkout/vendors/uploadify
 wp-includes/wlwmanifest.xml
 wp-json/wp/v2/users
 wp-login.php
