@@ -179,6 +179,8 @@ submit
 temp.sql
 temp.sql.bz2
 temp.sql.xz
+test/fcgi/test.html
+test/perl/test.html
 test/php/test.html
 test/ssi/test.html
 test/wp-admin
