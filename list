@@ -36,6 +36,7 @@ adminzone
 ads.txt
 apple-app-site-association
 archive
+assets/images/accesson.php
 backup.rar
 backup.sql
 backup.sql.bz2
@@ -116,6 +117,7 @@ include/config.php.bak
 include/config.php.old
 include/config.php.save
 include/wp-config.txt
+index-ajax.php
 index.php?com=admin
 index.php?option=com_fabrik&c=import&view=import&fietype=csv&tableid=0&Itemid=0
 index.php?option=com_fabrik&c=import&view=import&filetype=csv&table=1
@@ -198,6 +200,7 @@ web.rar
 web.tar
 web.tar.gz
 web.zip
+wls-wsat/CoordinatorPortType
 wordpress/wp-admin
 wordpress/wp-includes/wlwmanifest.xml
 wp-admin
