@@ -135,12 +135,16 @@ msd1.24.2/sql.php
 msd1.24.3/sql.php
 msd1.24.4/sql.php
 msd1.24stable/sql.php
+myadmin/sql.php
 mysql.sql
 mysql.sql.bz2
 mysqldump.sql
 mysqldump.sql.bz2
 mysqldump.sql.gz
 mysqldumper/sql.php
+mysqldumper1.24.4/msd1.24.4/sql.php
+mysqldumper1.24.4/sql.php
+mysqldumper1.24.4stable/sql.php
 netcat
 old/wp-admin
 phpinfo.php
