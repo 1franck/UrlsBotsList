@@ -24,11 +24,13 @@ admin.tar
 admin.tar.gz
 admin.zip
 admin/auth/login
+admin/elfinder/php/connector.php
 admin/fckeditor/editor/filemanager/browser/default/connectors/php/connector.php?Command=GetFoldersAndFiles&Type=File&CurrentFolder=
 admin/fckeditor/editor/filemanager/connectors/php/connector.php?Command=GetFoldersAndFiles&Type=File&CurrentFolder=
 admin/login.php
 admin/sql.php
 admin/sql/sql.php
+admin/up.php
 adminer.php
 administrator
 administrator.php
@@ -94,6 +96,7 @@ dump.sql
 dump.sql.bz2
 dump/sql.php
 dumper/sql.php
+elfinder/php/connector.php
 fck/editor/filemanager/connectors/php/connector.php?Command=GetFoldersAndFiles&Type=File&CurrentFolder=
 fckeditor/editor/filemanager/browser/default/connectors/php/connector.php?Command=GetFoldersAndFiles&Type=File&CurrentFolder=
 fckeditor/editor/filemanager/connectors/php/connector.php?Command=GetFoldersAndFiles&Type=File&CurrentFolder=
