@@ -4,4 +4,4 @@ This repository contains an exhaustive list of URLs scanned by various/suspiciou
 
 URLs have been gathered from many website logs over time.
 
-Feel free to add your own or fork this list. 
+Feel free to add your own or fork this list.
