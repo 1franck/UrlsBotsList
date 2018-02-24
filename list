@@ -1,10 +1,12 @@
 ?author=1
+.ds_store
 .env
 .ftpconfig
 .git/config
 .git/HEAD
 .git/index
 .remote-sync.json
+.svn/entries
 .vscode/ftp-sync.json
 .well-known/apple-app-site-association
 .well-known/assetlinks.json
@@ -36,6 +38,7 @@ administrator
 administrator.php
 adminzone
 ads.txt
+app/etc/local.xml
 apple-app-site-association
 archive
 assets/images/accesson.php
@@ -64,9 +67,15 @@ config.php-bak
 config.php.bak
 config.php.old
 config.php.save
+config.php.swp
+config/database.yml
+config/databases.yml
+configuration.php
 connectors/resource/index.php?ctx%5brank%2560+IN+(666)+UNION+SELECT+id,username,password+FROM+modx_users+WHERE+id+IN(1);/*%5d=fuckyoumodxrevolutionagain2
 contribute.json
+core
 crossdomain.xml
+cvs/root
 data.rar
 data.sql
 data.sql.bz2
@@ -100,6 +109,7 @@ elfinder/php/connector.php
 fck/editor/filemanager/connectors/php/connector.php?Command=GetFoldersAndFiles&Type=File&CurrentFolder=
 fckeditor/editor/filemanager/browser/default/connectors/php/connector.php?Command=GetFoldersAndFiles&Type=File&CurrentFolder=
 fckeditor/editor/filemanager/connectors/php/connector.php?Command=GetFoldersAndFiles&Type=File&CurrentFolder=
+filezilla.xml
 home.rar
 home.tar
 home.tar.gz
@@ -110,6 +120,7 @@ html.tar.gz
 html.zip
 httpdocs.zip
 humans.txt
+id_rsa
 inc/config.php-bak
 inc/config.php.bak
 inc/config.php.old
@@ -127,6 +138,8 @@ index.php?option=com_fabrik&c=import&view=import&filetype=csv&table=1
 index.php?option=com_fabrik&format=raw&task=plugin.pluginAjax&plugin=fileupload&method=ajax_upload
 index.php?option=com_jimtawl&view=upload&task=upload&pop=true&tmpl=component
 index.php?option=com_user&task=register
+index.php.bak
+key.pem
 latin
 license.txt
 localhost.sql
@@ -139,6 +152,7 @@ msd1.24.3/sql.php
 msd1.24.4/sql.php
 msd1.24stable/sql.php
 myadmin/sql.php
+myserver.key
 mysql.sql
 mysql.sql.bz2
 mysqldump.sql
@@ -153,6 +167,7 @@ old/wp-admin
 phpinfo.php
 phpmyadmin
 pma
+privatekey.key
 public_html.rar
 public_html.tar
 public_html.tar.gz
@@ -176,10 +191,13 @@ root.zip
 searchreplacedb2.php
 security.txt
 security.txt.sig
+server-status
+server.key
 sftp-config.json
 site.sql
 site.sql.bz2
 site/wp-includes/wlwmanifest.xml
+sitemanager.xml
 sql.sql
 sql.sql.bz2
 sql.sql.gz
@@ -204,10 +222,13 @@ users.sql.bz2
 users.sql.gz
 users/sign_in
 vb
+wallet.dat
+web.config
 web.rar
 web.tar
 web.tar.gz
 web.zip
+winscp.ini
 wls-wsat/CoordinatorPortType
 wordpress/wp-admin
 wordpress/wp-includes/wlwmanifest.xml
@@ -227,6 +248,7 @@ wp-login.php
 wp-login.php?action=register
 wp/wp-admin
 wp/wp-includes/wlwmanifest.xml
+ws_ftp.ini
 www.rar
 www.tar
 www.tar.gz
