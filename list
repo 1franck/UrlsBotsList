@@ -34,6 +34,7 @@ admin/sql.php
 admin/sql/sql.php
 admin/up.php
 adminer.php
+adminer-4.3.1-en.php
 administrator
 administrator.php
 adminzone
@@ -137,6 +138,7 @@ index.php?option=com_fabrik&c=import&view=import&fietype=csv&tableid=0&Itemid=0
 index.php?option=com_fabrik&c=import&view=import&filetype=csv&table=1
 index.php?option=com_fabrik&format=raw&task=plugin.pluginAjax&plugin=fileupload&method=ajax_upload
 index.php?option=com_jimtawl&view=upload&task=upload&pop=true&tmpl=component
+index.php?option=com_media&view=images&tmpl=component&e_name=jform_description&asset=com_weblinks&author
 index.php?option=com_user&task=register
 index.php.bak
 key.pem
@@ -197,6 +199,8 @@ sftp-config.json
 site.sql
 site.sql.bz2
 site/wp-includes/wlwmanifest.xml
+sitecore/admin/login.aspx
+sitefinity/UserControls/Dialogs/DocumentEditorDialog.aspx
 sitemanager.xml
 sql.sql
 sql.sql.bz2
