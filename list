@@ -6,6 +6,8 @@
 .git/HEAD
 .git/index
 .remote-sync.json
+.ssh/id_dsa
+.ssh/id_rsa
 .svn/entries
 .vscode/ftp-sync.json
 .well-known/apple-app-site-association
@@ -144,6 +146,7 @@ index.php.bak
 key.pem
 latin
 license.txt
+lfm.php
 localhost.sql
 localhost.sql.bz2
 manager
