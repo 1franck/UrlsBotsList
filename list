@@ -65,6 +65,7 @@ clientaccesspolicy.xml
 cms
 cms/admin
 cms/wp-includes/wlwmanifest.xm
+config
 config.bak
 config.php-bak
 config.php.bak
@@ -151,6 +152,7 @@ lfm.php
 localhost.sql
 localhost.sql.bz2
 manager
+misc
 mscms
 msd/sql.php
 msd1.24.2/sql.php
@@ -224,7 +226,10 @@ test/wp-admin
 translate.sql
 translate.sql.bz2
 typo3
+typo3/sysext/backend/Resources/Public/Images/typo3_orange.svg
 upload
+umbraco_client
+user/login
 user/register
 users.sql
 users.sql.bz2
