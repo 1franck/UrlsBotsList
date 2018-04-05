@@ -230,6 +230,7 @@ includes/configure.php.org
 includes/configure.php.save
 index-ajax.php
 index.php?com=admin
+index.php?do=register
 index.php?option=com_fabrik&c=import&view=import&fietype=csv&tableid=0&Itemid=0
 index.php?option=com_fabrik&c=import&view=import&filetype=csv&table=1
 index.php?option=com_fabrik&format=raw&task=plugin.pluginAjax&plugin=fileupload&method=ajax_upload
