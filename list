@@ -10,6 +10,7 @@
 .ssh/id_dsa
 .ssh/id_rsa
 .svn/entries
+.svn/wc.db
 .vscode/ftp-sync.json
 .well-known/apple-app-site-association
 .well-known/assetlinks.json
