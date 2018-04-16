@@ -14,6 +14,7 @@
 .vscode/ftp-sync.json
 .well-known/apple-app-site-association
 .well-known/assetlinks.json
+.well-known/dnt-policy.txt
 .well-known/security.txt
 .well-known/security.txt.sig
 .wp-config.php.swp
