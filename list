@@ -254,6 +254,7 @@ msd1.24.2/sql.php
 msd1.24.3/sql.php
 msd1.24.4/sql.php
 msd1.24stable/sql.php
+modules/mod_simplefileuploadv1.3/elements/udd.php
 myadmin/sql.php
 myserver.key
 mysql.sql
