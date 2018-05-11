@@ -184,6 +184,8 @@ elfinder/php/connector.php
 fck/editor/filemanager/connectors/php/connector.php?Command=GetFoldersAndFiles&Type=File&CurrentFolder=
 fckeditor/editor/filemanager/browser/default/connectors/php/connector.php?Command=GetFoldersAndFiles&Type=File&CurrentFolder=
 fckeditor/editor/filemanager/connectors/php/connector.php?Command=GetFoldersAndFiles&Type=File&CurrentFolder=
+file-upload.php
+file-uploader.php
 filezilla.xml
 home.rar
 home.tar
@@ -317,6 +319,7 @@ temp.sql.xz
 test/fcgi/test.html
 test/perl/test.html
 test/php/test.html
+test/php/test.php
 test/ssi/test.html
 test/wp-admin
 translate.sql
@@ -325,6 +328,7 @@ typo3
 typo3/sysext/backend/Resources/Public/Images/typo3_orange.svg
 umbraco_client
 upload
+upload.php
 user/login
 user/register
 users.sql
