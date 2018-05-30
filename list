@@ -64,6 +64,7 @@ admin/up.php
 adminer-4.3.1-en.php
 adminer.php
 administrator
+administrator/components/com_jinc/classes/graphics/php-ofc-library/ofc_upload_image.php
 administrator.php
 adminzone
 ads.txt
