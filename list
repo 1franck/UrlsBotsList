@@ -234,6 +234,7 @@ includes/configure.php.old
 includes/configure.php.org
 includes/configure.php.save
 index-ajax.php
+index.php?act=dispMemberLoginForm
 index.php?com=admin
 index.php?do=register
 index.php?option=com_fabrik&c=import&view=import&fietype=csv&tableid=0&Itemid=0
@@ -273,7 +274,9 @@ netcat
 old/wp-admin
 phpinfo.php
 phpmyadmin
+phpmyadmin/scripts/setup.php
 pma
+pma/scripts/setup.php
 privatekey.key
 public_html.rar
 public_html.tar
@@ -296,6 +299,7 @@ root.rar
 root.tar
 root.tar.gz
 root.zip
+scripts/setup.php
 searchreplacedb2.php
 security.txt
 security.txt.sig
